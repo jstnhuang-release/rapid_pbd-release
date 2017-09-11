@@ -1,0 +1,15 @@
+ros-indigo-rapid-pbd (0.1.2-0trusty) trusty; urgency=high
+
+  * Added install targets.
+  * Contributors: Justin Huang
+
+ -- Justin Huang <jstn@cs.washington.edu>  Mon, 11 Sep 2017 07:00:00 -0000
+
+ros-indigo-rapid-pbd (0.1.1-0trusty) trusty; urgency=high
+
+  * Initial release.
+  * Contributors: Justin Huang
+
+ -- Justin Huang <jstn@cs.washington.edu>  Mon, 11 Sep 2017 07:00:00 -0000
+
+

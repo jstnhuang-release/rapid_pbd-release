@@ -1,0 +1,12 @@
+Source: ros-indigo-rapid-pbd
+Section: misc
+Priority: extra
+Maintainer: Justin Huang <jstn@cs.washington.edu>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-actionlib, ros-indigo-catkin, ros-indigo-control-msgs, ros-indigo-mongodb-store, ros-indigo-moveit-core, ros-indigo-moveit-goal-builder, ros-indigo-moveit-ros-planning, ros-indigo-moveit-ros-planning-interface, ros-indigo-pcl-ros, ros-indigo-pr2-controllers-msgs, ros-indigo-pr2-mechanism-msgs, ros-indigo-rapid-pbd-msgs, ros-indigo-robot-markers, ros-indigo-roscpp, ros-indigo-rospy, ros-indigo-shape-msgs, ros-indigo-surface-perception, ros-indigo-transform-graph
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rapid-pbd
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-actionlib, ros-indigo-control-msgs, ros-indigo-depthcloud-encoder, ros-indigo-mongodb-store, ros-indigo-moveit-core, ros-indigo-moveit-goal-builder, ros-indigo-moveit-ros-planning, ros-indigo-moveit-ros-planning-interface, ros-indigo-pcl-ros, ros-indigo-pr2-controllers-msgs, ros-indigo-pr2-mechanism-msgs, ros-indigo-rapid-pbd-msgs, ros-indigo-robot-markers, ros-indigo-ros-web-video, ros-indigo-roscpp, ros-indigo-rospy, ros-indigo-shape-msgs, ros-indigo-surface-perception, ros-indigo-transform-graph
+Description: Programming by demonstration for 1 or 2 arm robots
