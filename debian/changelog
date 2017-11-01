@@ -1,0 +1,29 @@
+ros-indigo-rapid-pbd (0.1.4-1trusty) trusty; urgency=high
+
+  * Changed str to toString, which compiles on ROS buildfarm.
+  * Contributors: Justin Huang
+
+ -- Justin Huang <jstn@cs.washington.edu>  Fri, 15 Sep 2017 07:00:00 -0000
+
+ros-indigo-rapid-pbd (0.1.3-1trusty) trusty; urgency=high
+
+  * Added missing build dependencies.
+  * Contributors: Justin Huang
+
+ -- Justin Huang <jstn@cs.washington.edu>  Mon, 11 Sep 2017 07:00:00 -0000
+
+ros-indigo-rapid-pbd (0.1.2-1trusty) trusty; urgency=high
+
+  * Added install targets.
+  * Contributors: Justin Huang
+
+ -- Justin Huang <jstn@cs.washington.edu>  Mon, 11 Sep 2017 07:00:00 -0000
+
+ros-indigo-rapid-pbd (0.1.1-1trusty) trusty; urgency=high
+
+  * Initial release.
+  * Contributors: Justin Huang
+
+ -- Justin Huang <jstn@cs.washington.edu>  Mon, 11 Sep 2017 07:00:00 -0000
+
+
