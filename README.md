@@ -1,3 +1,26 @@
+## rapid_pbd (indigo) - 0.2.0-0
+
+The packages in the `rapid_pbd` repository were released into the `indigo` distro by running `/usr/bin/bloom-release rapid_pbd --track indigo --rosdistro indigo` on `Thu, 16 Nov 2017 04:43:05 -0000`
+
+The `rapid_pbd` package was released.
+
+Version of package(s) in repository `rapid_pbd`:
+
+- upstream repository: https://github.com/jstnhuang/rapid_pbd.git
+- release repository: https://github.com/jstnhuang-release/rapid_pbd-release.git
+- rosdistro version: `0.1.6-0`
+- old version: `0.1.6-0`
+- new version: `0.2.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.1`
+- catkin_pkg version: `0.3.9`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## rapid_pbd (indigo) - 0.1.6-0
 
 The packages in the `rapid_pbd` repository were released into the `indigo` distro by running `/usr/bin/bloom-release rapid_pbd --track indigo --rosdistro indigo` on `Fri, 03 Nov 2017 22:42:11 -0000`
